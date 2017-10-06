@@ -7,6 +7,7 @@ public class Beef implements Taco {
     public Beef(){
         description = "Beef taco";
     }
+
     public String getDescription() {
         return this.description;
     }

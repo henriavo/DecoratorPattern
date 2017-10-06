@@ -6,6 +6,7 @@ public class Chicken implements Taco {
     public Chicken(){
         description = "Chicken taco";
     }
+
     public String getDescription() {
         return this.description;
     }
